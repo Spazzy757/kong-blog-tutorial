@@ -1,5 +1,5 @@
 # kong-blog-tutorial
-Setup to follow the blog entry
+Setup to follow the [blog entry](http://spazzy757.com/fun-with-mashape-kong/)
 
 To up this setup for the first time:
 
